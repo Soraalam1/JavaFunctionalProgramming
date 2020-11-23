@@ -1,0 +1,13 @@
+Pure functional programming has a set of rules to follow:
+
+-No State (they don't depend on a global state, should be self contained)
+
+-Pure Functions
+
+-No Side Effects
+
+-Higher Order Functions
+
+A function is higher order if:
+* The function takes one or more functions as parameters
+* The function returns another function as a result
